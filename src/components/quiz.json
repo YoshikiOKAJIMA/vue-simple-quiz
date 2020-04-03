@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "雲量8のとき、天気は次のうちどれでしょうか。",
+    "option": [
+      {
+        "index": 1,
+        "sentence": "快晴",
+        "correct": false
+      },
+      {
+        "index": 2,
+        "sentence": "晴れ",
+        "correct": true
+      },
+      {
+        "index": 3,
+        "sentence": "曇り",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "チーバくんの体色は、何色でしょうか。",
+    "option": [
+      {
+        "index": 1,
+        "sentence": "赤",
+        "correct": true
+      },
+      {
+        "index": 2,
+        "sentence": "緑",
+        "correct": false
+      },
+      {
+        "index": 3,
+        "sentence": "青",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "水の上に一円玉を浮かべた。その右に洗剤を垂らしたとき、一円玉は水の表面張力により動き出す。その方向は、次のうちのどれか。",
+    "option": [
+      {
+        "index": 1,
+        "sentence": "左",
+        "correct": true
+      },
+      {
+        "index": 2,
+        "sentence": "右",
+        "correct": false
+      },
+      {
+        "index": 3,
+        "sentence": "下",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "太陽系で最も暑い惑星は、次のうちどれか。",
+    "option": [
+      {
+        "index": 1,
+        "sentence": "水星",
+        "correct": false
+      },
+      {
+        "index": 2,
+        "sentence": "金星",
+        "correct": true
+      },
+      {
+        "index": 3,
+        "sentence": "火星",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "パンはパンでも食べられないパンは?",
+    "option": [
+      {
+        "index": 1,
+        "sentence": "フライパソ",
+        "correct": false
+      },
+      {
+        "index": 2,
+        "sentence": "フライバン",
+        "correct": false
+      },
+      {
+        "index": 3,
+        "sentence": "フライパン",
+        "correct": true
+      }
+    ]
+  }
+]
